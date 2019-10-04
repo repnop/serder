@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "serder",
+    "serder_derive",
+]
